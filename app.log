@@ -1,0 +1,1251 @@
+2025-05-12 17:40:21,904 - INFO - Приложение запущено
+2025-05-12 17:40:21,975 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:40:22,474 - INFO - Приложение запущено
+2025-05-12 17:40:22,523 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:40:22,560 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:40:22,561 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:40:22,562 - INFO -  * Restarting with stat
+2025-05-12 17:40:22,824 - INFO - Приложение запущено
+2025-05-12 17:40:22,867 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:40:22,886 - WARNING -  * Debugger is active!
+2025-05-12 17:40:22,895 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:40:23,189 - INFO - HTTP Request: POST https://api.telegram.org/botYOUR_BOT_TOKEN/getMe "HTTP/1.1 404 Not Found"
+2025-05-12 17:40:23,189 - ERROR - Ошибка запуска Telegram-бота: The token `YOUR_BOT_TOKEN` was rejected by the server.
+2025-05-12 17:40:23,346 - INFO - HTTP Request: POST https://api.telegram.org/botYOUR_BOT_TOKEN/getMe "HTTP/1.1 404 Not Found"
+2025-05-12 17:40:23,347 - ERROR - Ошибка запуска Telegram-бота: The token `YOUR_BOT_TOKEN` was rejected by the server.
+2025-05-12 17:40:35,054 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 17:40:35,126 - INFO -  * Restarting with stat
+2025-05-12 17:40:35,524 - INFO - Приложение запущено
+2025-05-12 17:40:35,582 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:40:35,605 - WARNING -  * Debugger is active!
+2025-05-12 17:40:35,614 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:40:36,128 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 17:40:36,129 - INFO - Application started
+2025-05-12 17:40:36,360 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 17:40:36,362 - INFO - Telegram-бот запущен
+2025-05-12 17:40:40,020 - INFO - Приложение запущено
+2025-05-12 17:40:40,064 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:40:40,089 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:40:40,089 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:40:40,091 - INFO -  * Restarting with stat
+2025-05-12 17:40:40,334 - INFO - Приложение запущено
+2025-05-12 17:40:40,372 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:40:40,390 - WARNING -  * Debugger is active!
+2025-05-12 17:40:40,398 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:40:40,690 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 17:40:40,691 - INFO - Application started
+2025-05-12 17:40:40,858 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 17:40:40,858 - INFO - Telegram-бот запущен
+2025-05-12 17:40:41,018 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 17:40:41,020 - INFO - Application started
+2025-05-12 17:40:41,191 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 17:40:41,193 - INFO - Telegram-бот запущен
+2025-05-12 17:40:47,876 - INFO - Запрошен маршрут /
+2025-05-12 17:40:47,889 - INFO - 127.0.0.1 - - [12/May/2025 17:40:47] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:47,969 - INFO - 127.0.0.1 - - [12/May/2025 17:40:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:47,969 - INFO - 127.0.0.1 - - [12/May/2025 17:40:47] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:47,972 - INFO - 127.0.0.1 - - [12/May/2025 17:40:47] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:47,972 - INFO - 127.0.0.1 - - [12/May/2025 17:40:47] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:47,974 - INFO - 127.0.0.1 - - [12/May/2025 17:40:47] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:47,974 - INFO - 127.0.0.1 - - [12/May/2025 17:40:47] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:48,525 - INFO - Запрошен маршрут /
+2025-05-12 17:40:48,527 - INFO - 127.0.0.1 - - [12/May/2025 17:40:48] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:48,546 - INFO - 127.0.0.1 - - [12/May/2025 17:40:48] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:48,546 - INFO - 127.0.0.1 - - [12/May/2025 17:40:48] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:48,547 - INFO - 127.0.0.1 - - [12/May/2025 17:40:48] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:48,551 - INFO - 127.0.0.1 - - [12/May/2025 17:40:48] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:48,553 - INFO - 127.0.0.1 - - [12/May/2025 17:40:48] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:48,560 - INFO - 127.0.0.1 - - [12/May/2025 17:40:48] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,028 - INFO - Запрошен маршрут /
+2025-05-12 17:40:49,029 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:49,045 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,046 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,048 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,050 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:49,052 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,052 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,264 - INFO - Запрошен маршрут /
+2025-05-12 17:40:49,265 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:49,281 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,283 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,283 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,287 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:49,292 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,292 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,613 - INFO - Запрошен маршрут /
+2025-05-12 17:40:49,613 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:49,629 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,630 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,632 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,638 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:49,638 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,638 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,774 - INFO - Запрошен маршрут /
+2025-05-12 17:40:49,775 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:49,787 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,789 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,789 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,798 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:49,799 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,799 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,979 - INFO - Запрошен маршрут /
+2025-05-12 17:40:49,980 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:49,996 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,997 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:49,999 - INFO - 127.0.0.1 - - [12/May/2025 17:40:49] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:50,007 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:50,008 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:50,010 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:50,157 - INFO - Запрошен маршрут /
+2025-05-12 17:40:50,158 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "GET / HTTP/1.1" 200 -
+2025-05-12 17:40:50,171 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:40:50,174 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:50,174 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:40:50,179 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:40:50,181 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[33mGET /static/js/script.js HTTP/1.1[0m" 404 -
+2025-05-12 17:40:50,184 - INFO - 127.0.0.1 - - [12/May/2025 17:40:50] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:41:46,456 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 17:41:46,556 - INFO -  * Restarting with stat
+2025-05-12 17:43:00,213 - INFO - Приложение запущено
+2025-05-12 17:43:00,231 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:43:00,260 - WARNING -  * Debugger is active!
+2025-05-12 17:43:00,273 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:43:05,650 - INFO - Запрошен маршрут /
+2025-05-12 17:43:05,660 - INFO - 127.0.0.1 - - [12/May/2025 17:43:05] "GET / HTTP/1.1" 200 -
+2025-05-12 17:43:05,687 - INFO - 127.0.0.1 - - [12/May/2025 17:43:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:43:05,690 - INFO - 127.0.0.1 - - [12/May/2025 17:43:05] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:05,691 - INFO - 127.0.0.1 - - [12/May/2025 17:43:05] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:05,696 - INFO - 127.0.0.1 - - [12/May/2025 17:43:05] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:43:05,697 - INFO - 127.0.0.1 - - [12/May/2025 17:43:05] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 17:43:05,697 - INFO - 127.0.0.1 - - [12/May/2025 17:43:05] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:06,576 - INFO - Запрошен маршрут /
+2025-05-12 17:43:06,577 - INFO - 127.0.0.1 - - [12/May/2025 17:43:06] "GET / HTTP/1.1" 200 -
+2025-05-12 17:43:06,594 - INFO - 127.0.0.1 - - [12/May/2025 17:43:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:43:06,595 - INFO - 127.0.0.1 - - [12/May/2025 17:43:06] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:06,598 - INFO - 127.0.0.1 - - [12/May/2025 17:43:06] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:06,599 - INFO - 127.0.0.1 - - [12/May/2025 17:43:06] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:43:06,601 - INFO - 127.0.0.1 - - [12/May/2025 17:43:06] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:06,602 - INFO - 127.0.0.1 - - [12/May/2025 17:43:06] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 17:43:19,568 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 17:43:19,985 - INFO - Приложение запущено
+2025-05-12 17:43:20,001 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:43:20,025 - WARNING -  * Debugger is active!
+2025-05-12 17:43:20,032 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:43:47,479 - INFO - Приложение запущено
+2025-05-12 17:43:47,494 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:43:47,525 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:43:47,525 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:43:47,526 - INFO -  * Restarting with stat
+2025-05-12 17:43:47,754 - INFO - Приложение запущено
+2025-05-12 17:43:47,761 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:43:47,777 - WARNING -  * Debugger is active!
+2025-05-12 17:43:47,785 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:43:57,693 - INFO - Запрошен маршрут /
+2025-05-12 17:43:57,705 - INFO - 127.0.0.1 - - [12/May/2025 17:43:57] "GET / HTTP/1.1" 200 -
+2025-05-12 17:43:57,766 - INFO - 127.0.0.1 - - [12/May/2025 17:43:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:43:57,767 - INFO - 127.0.0.1 - - [12/May/2025 17:43:57] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:57,774 - INFO - 127.0.0.1 - - [12/May/2025 17:43:57] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:43:57,776 - INFO - 127.0.0.1 - - [12/May/2025 17:43:57] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 17:43:57,776 - INFO - 127.0.0.1 - - [12/May/2025 17:43:57] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:43:57,777 - INFO - 127.0.0.1 - - [12/May/2025 17:43:57] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:44:30,855 - INFO - Приложение запущено
+2025-05-12 17:44:30,870 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:44:30,903 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:44:30,903 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:44:30,903 - INFO -  * Restarting with stat
+2025-05-12 17:44:31,140 - INFO - Приложение запущено
+2025-05-12 17:44:31,148 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:44:31,166 - WARNING -  * Debugger is active!
+2025-05-12 17:44:31,172 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:44:52,231 - INFO - Приложение запущено
+2025-05-12 17:44:52,247 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:44:52,277 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:44:52,277 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:44:52,278 - INFO -  * Restarting with stat
+2025-05-12 17:44:52,504 - INFO - Приложение запущено
+2025-05-12 17:44:52,514 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:44:52,532 - WARNING -  * Debugger is active!
+2025-05-12 17:44:52,540 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:45:00,225 - INFO - Приложение запущено
+2025-05-12 17:45:00,235 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:45:00,258 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:45:00,258 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:45:00,259 - INFO -  * Restarting with stat
+2025-05-12 17:45:00,488 - INFO - Приложение запущено
+2025-05-12 17:45:00,496 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:45:00,512 - WARNING -  * Debugger is active!
+2025-05-12 17:45:00,517 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:45:09,576 - INFO - Запрошен маршрут /
+2025-05-12 17:45:09,589 - INFO - 127.0.0.1 - - [12/May/2025 17:45:09] "GET / HTTP/1.1" 200 -
+2025-05-12 17:45:09,638 - INFO - 127.0.0.1 - - [12/May/2025 17:45:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:45:09,643 - INFO - 127.0.0.1 - - [12/May/2025 17:45:09] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:45:09,644 - INFO - 127.0.0.1 - - [12/May/2025 17:45:09] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:45:09,649 - INFO - 127.0.0.1 - - [12/May/2025 17:45:09] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:45:09,649 - INFO - 127.0.0.1 - - [12/May/2025 17:45:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 17:45:09,650 - INFO - 127.0.0.1 - - [12/May/2025 17:45:09] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:46:08,971 - INFO - Приложение запущено
+2025-05-12 17:46:08,988 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:46:09,021 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:46:09,021 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:46:09,021 - INFO -  * Restarting with stat
+2025-05-12 17:46:09,272 - INFO - Приложение запущено
+2025-05-12 17:46:09,281 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:46:09,300 - WARNING -  * Debugger is active!
+2025-05-12 17:46:09,307 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:46:15,471 - INFO - Запрошен маршрут /
+2025-05-12 17:46:15,476 - INFO - 127.0.0.1 - - [12/May/2025 17:46:15] "GET / HTTP/1.1" 200 -
+2025-05-12 17:46:15,535 - INFO - 127.0.0.1 - - [12/May/2025 17:46:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 17:46:15,535 - INFO - 127.0.0.1 - - [12/May/2025 17:46:15] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 17:46:15,536 - INFO - 127.0.0.1 - - [12/May/2025 17:46:15] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:46:15,542 - INFO - 127.0.0.1 - - [12/May/2025 17:46:15] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:46:15,542 - INFO - 127.0.0.1 - - [12/May/2025 17:46:15] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 17:46:15,543 - INFO - 127.0.0.1 - - [12/May/2025 17:46:15] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 17:46:18,586 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 17:46:18,588 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '12 Май 2025 года, 17:46', 'children': {'count': 4, 'cost': 6000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 5400}
+2025-05-12 17:46:18,592 - WARNING - Неверный формат даты
+2025-05-12 17:46:18,593 - INFO - 127.0.0.1 - - [12/May/2025 17:46:18] "[31m[1mPOST /api/bookings HTTP/1.1[0m" 400 -
+2025-05-12 17:46:28,558 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 17:46:28,559 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13 Май 2025 года, 17:46', 'children': {'count': 4, 'cost': 6000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 5400}
+2025-05-12 17:46:28,560 - WARNING - Неверный формат даты
+2025-05-12 17:46:28,560 - INFO - 127.0.0.1 - - [12/May/2025 17:46:28] "[31m[1mPOST /api/bookings HTTP/1.1[0m" 400 -
+2025-05-12 17:50:31,172 - INFO - Запрошен тестовый маршрут /test_booking
+2025-05-12 17:50:31,199 - INFO - Тестовая заявка #1 создана
+2025-05-12 17:50:31,199 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 17:50:31,199 - INFO - 127.0.0.1 - - [12/May/2025 17:50:31] "GET /test_booking HTTP/1.1" 200 -
+2025-05-12 17:58:46,602 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 17:58:46,719 - INFO -  * Restarting with stat
+2025-05-12 17:58:47,267 - INFO - Приложение запущено
+2025-05-12 17:58:47,333 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:58:47,363 - WARNING -  * Debugger is active!
+2025-05-12 17:58:47,372 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:58:47,869 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 17:58:47,870 - INFO - Application started
+2025-05-12 17:58:48,040 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 17:58:48,042 - INFO - Telegram-бот запущен
+2025-05-12 17:59:46,413 - INFO - Приложение запущено
+2025-05-12 17:59:46,473 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:59:46,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 17:59:46,520 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 17:59:46,521 - INFO -  * Restarting with stat
+2025-05-12 17:59:46,799 - INFO - Приложение запущено
+2025-05-12 17:59:46,840 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 17:59:46,857 - WARNING -  * Debugger is active!
+2025-05-12 17:59:46,866 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 17:59:47,170 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 17:59:47,171 - INFO - Application started
+2025-05-12 17:59:47,324 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 17:59:47,325 - INFO - Telegram-бот запущен
+2025-05-12 17:59:47,409 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 17:59:47,411 - INFO - Application started
+2025-05-12 17:59:47,558 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 17:59:47,559 - INFO - Telegram-бот запущен
+2025-05-12 17:59:50,796 - INFO - Запрошен тестовый маршрут /test_booking
+2025-05-12 17:59:50,811 - INFO - Тестовая заявка #2 создана
+2025-05-12 17:59:50,811 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 17:59:50,811 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 17:59:50,812 - INFO - 127.0.0.1 - - [12/May/2025 17:59:50] "GET /test_booking HTTP/1.1" 200 -
+2025-05-12 18:00:13,160 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:00:13,163 - WARNING - Неверный формат даты
+2025-05-12 18:00:13,164 - INFO - 127.0.0.1 - - [12/May/2025 18:00:13] "[31m[1mPOST /api/bookings HTTP/1.1[0m" 400 -
+2025-05-12 18:37:27,633 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 18:37:27,795 - INFO -  * Restarting with stat
+2025-05-12 18:37:28,192 - INFO - Приложение запущено
+2025-05-12 18:37:28,256 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:37:28,284 - WARNING -  * Debugger is active!
+2025-05-12 18:37:28,290 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:37:29,307 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 18:37:29,309 - INFO - Application started
+2025-05-12 18:37:29,544 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 18:37:29,545 - INFO - Telegram-бот запущен
+2025-05-12 18:37:31,580 - INFO - Запрошен маршрут /
+2025-05-12 18:37:31,586 - INFO - 127.0.0.1 - - [12/May/2025 18:37:31] "GET / HTTP/1.1" 200 -
+2025-05-12 18:37:31,648 - INFO - 127.0.0.1 - - [12/May/2025 18:37:31] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:37:31,650 - INFO - 127.0.0.1 - - [12/May/2025 18:37:31] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:37:31,654 - INFO - 127.0.0.1 - - [12/May/2025 18:37:31] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:37:31,660 - INFO - 127.0.0.1 - - [12/May/2025 18:37:31] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:37:31,660 - INFO - 127.0.0.1 - - [12/May/2025 18:37:31] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:37:31,660 - INFO - 127.0.0.1 - - [12/May/2025 18:37:31] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 18:37:33,557 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:37:33,559 - WARNING - Неверный формат даты
+2025-05-12 18:37:33,559 - INFO - 127.0.0.1 - - [12/May/2025 18:37:33] "[31m[1mPOST /api/bookings HTTP/1.1[0m" 400 -
+2025-05-12 18:37:58,736 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 18:37:58,818 - INFO -  * Restarting with stat
+2025-05-12 18:37:59,171 - INFO - Приложение запущено
+2025-05-12 18:37:59,301 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:37:59,330 - WARNING -  * Debugger is active!
+2025-05-12 18:37:59,337 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:37:59,905 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 18:37:59,906 - INFO - Application started
+2025-05-12 18:38:00,085 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 18:38:00,086 - INFO - Telegram-бот запущен
+2025-05-12 18:38:24,659 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:38:24,661 - WARNING - Неверный формат даты
+2025-05-12 18:38:24,661 - INFO - 127.0.0.1 - - [12/May/2025 18:38:24] "[31m[1mPOST /api/bookings HTTP/1.1[0m" 400 -
+2025-05-12 18:38:26,722 - INFO - Запрошен маршрут /
+2025-05-12 18:38:26,734 - INFO - 127.0.0.1 - - [12/May/2025 18:38:26] "GET / HTTP/1.1" 200 -
+2025-05-12 18:38:26,776 - INFO - 127.0.0.1 - - [12/May/2025 18:38:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:38:26,776 - INFO - 127.0.0.1 - - [12/May/2025 18:38:26] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:38:26,776 - INFO - 127.0.0.1 - - [12/May/2025 18:38:26] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:38:26,779 - INFO - 127.0.0.1 - - [12/May/2025 18:38:26] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 18:38:26,779 - INFO - 127.0.0.1 - - [12/May/2025 18:38:26] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:38:26,780 - INFO - 127.0.0.1 - - [12/May/2025 18:38:26] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:38:27,768 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:38:27,775 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:38:27,798 - INFO - Заявка #4 сохранена в базе
+2025-05-12 18:38:27,799 - INFO - Заявка #3 сохранена в базе
+2025-05-12 18:38:27,799 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:38:27,799 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:38:27,799 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:38:27,799 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:38:27,800 - INFO - Создана заявка #4
+2025-05-12 18:38:27,800 - INFO - 127.0.0.1 - - [12/May/2025 18:38:27] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:38:27,800 - INFO - Создана заявка #3
+2025-05-12 18:38:27,800 - INFO - 127.0.0.1 - - [12/May/2025 18:38:27] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:38:43,940 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:38:43,951 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:38:43,962 - INFO - Заявка #5 сохранена в базе
+2025-05-12 18:38:43,963 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:38:43,964 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:38:43,964 - INFO - Заявка #6 сохранена в базе
+2025-05-12 18:38:43,964 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:38:43,964 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:38:43,964 - INFO - Создана заявка #5
+2025-05-12 18:38:43,965 - INFO - 127.0.0.1 - - [12/May/2025 18:38:43] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:38:43,965 - INFO - Создана заявка #6
+2025-05-12 18:38:43,966 - INFO - 127.0.0.1 - - [12/May/2025 18:38:43] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:39:19,211 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:39:19,219 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:39:19,223 - INFO - Заявка #7 сохранена в базе
+2025-05-12 18:39:19,224 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:39:19,224 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:39:19,225 - INFO - Создана заявка #7
+2025-05-12 18:39:19,225 - INFO - 127.0.0.1 - - [12/May/2025 18:39:19] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:39:19,226 - INFO - Заявка #8 сохранена в базе
+2025-05-12 18:39:19,226 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:39:19,226 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:39:19,226 - INFO - Создана заявка #8
+2025-05-12 18:39:19,226 - INFO - 127.0.0.1 - - [12/May/2025 18:39:19] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:39:20,953 - INFO - Запрошен маршрут /
+2025-05-12 18:39:20,955 - INFO - 127.0.0.1 - - [12/May/2025 18:39:20] "GET / HTTP/1.1" 200 -
+2025-05-12 18:39:20,995 - INFO - 127.0.0.1 - - [12/May/2025 18:39:20] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:39:20,996 - INFO - 127.0.0.1 - - [12/May/2025 18:39:20] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:39:20,997 - INFO - 127.0.0.1 - - [12/May/2025 18:39:20] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:20,998 - INFO - 127.0.0.1 - - [12/May/2025 18:39:20] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 18:39:21,002 - INFO - 127.0.0.1 - - [12/May/2025 18:39:21] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:21,003 - INFO - 127.0.0.1 - - [12/May/2025 18:39:21] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:21,969 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:39:21,970 - WARNING - Неверный формат даты
+2025-05-12 18:39:21,971 - INFO - 127.0.0.1 - - [12/May/2025 18:39:21] "[31m[1mPOST /api/bookings HTTP/1.1[0m" 400 -
+2025-05-12 18:39:49,710 - INFO - Запрошен маршрут /
+2025-05-12 18:39:49,712 - INFO - 127.0.0.1 - - [12/May/2025 18:39:49] "GET / HTTP/1.1" 200 -
+2025-05-12 18:39:49,761 - INFO - 127.0.0.1 - - [12/May/2025 18:39:49] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:39:49,761 - INFO - 127.0.0.1 - - [12/May/2025 18:39:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:39:49,762 - INFO - 127.0.0.1 - - [12/May/2025 18:39:49] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:49,764 - INFO - 127.0.0.1 - - [12/May/2025 18:39:49] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:49,765 - INFO - 127.0.0.1 - - [12/May/2025 18:39:49] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:49,766 - INFO - 127.0.0.1 - - [12/May/2025 18:39:49] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 18:39:51,066 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:39:51,087 - INFO - Заявка #9 сохранена в базе
+2025-05-12 18:39:51,088 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:39:51,088 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:39:51,088 - INFO - Создана заявка #9
+2025-05-12 18:39:51,089 - INFO - 127.0.0.1 - - [12/May/2025 18:39:51] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:39:57,259 - INFO - Запрошен маршрут /
+2025-05-12 18:39:57,260 - INFO - 127.0.0.1 - - [12/May/2025 18:39:57] "GET / HTTP/1.1" 200 -
+2025-05-12 18:39:57,286 - INFO - 127.0.0.1 - - [12/May/2025 18:39:57] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:39:57,286 - INFO - 127.0.0.1 - - [12/May/2025 18:39:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:39:57,294 - INFO - 127.0.0.1 - - [12/May/2025 18:39:57] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:57,294 - INFO - 127.0.0.1 - - [12/May/2025 18:39:57] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:57,297 - INFO - 127.0.0.1 - - [12/May/2025 18:39:57] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:39:57,298 - INFO - 127.0.0.1 - - [12/May/2025 18:39:57] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 18:39:58,419 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:39:58,420 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:39:58,431 - INFO - Заявка #10 сохранена в базе
+2025-05-12 18:39:58,433 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:39:58,433 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:39:58,433 - INFO - Создана заявка #10
+2025-05-12 18:39:58,435 - INFO - 127.0.0.1 - - [12/May/2025 18:39:58] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:39:58,436 - INFO - Заявка #11 сохранена в базе
+2025-05-12 18:39:58,436 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:39:58,437 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:39:58,438 - INFO - Создана заявка #11
+2025-05-12 18:39:58,438 - INFO - 127.0.0.1 - - [12/May/2025 18:39:58] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:42:32,214 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:42:32,222 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:42:32,239 - INFO - Заявка #12 сохранена в базе
+2025-05-12 18:42:32,242 - INFO - Заявка #13 сохранена в базе
+2025-05-12 18:42:32,243 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:42:32,243 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:42:32,243 - INFO - Попытка отправки в Telegram, chat_id: None
+2025-05-12 18:42:32,243 - WARNING - Не установлен telegram_chat_id, сообщение не отправлено
+2025-05-12 18:42:32,243 - INFO - Создана заявка #12
+2025-05-12 18:42:32,244 - INFO - 127.0.0.1 - - [12/May/2025 18:42:32] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:42:32,244 - INFO - Создана заявка #13
+2025-05-12 18:42:32,244 - INFO - 127.0.0.1 - - [12/May/2025 18:42:32] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:43:34,358 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 18:43:34,505 - INFO -  * Restarting with stat
+2025-05-12 18:43:34,937 - INFO - Приложение запущено
+2025-05-12 18:43:35,013 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:43:35,044 - WARNING -  * Debugger is active!
+2025-05-12 18:43:35,055 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:43:35,704 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 18:43:35,705 - INFO - Application started
+2025-05-12 18:43:36,018 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 18:43:36,018 - INFO - Telegram-бот запущен
+2025-05-12 18:43:41,895 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:43:41,898 - INFO - Полученные данные: {'booking_type': 'Приглашение', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '12.05.2025 00:00', 'children': {'count': 12, 'cost': 18000}, 'food': {'included': True, 'items': [{'name': 'Вода', 'price': 300, 'quantity': 1}]}, 'services': {'included': True, 'items': [{'name': 'Аниматор-супергерой', 'price': 18000}]}, 'transport': {'included': True, 'type': 'Туда (5000 тг)', 'cost': 5000}, 'total': 37170}
+2025-05-12 18:43:41,898 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:43:41,909 - INFO - Полученные данные: {'booking_type': 'В центре', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '12.05.2025 00:00', 'children': {'count': 3, 'cost': 5400}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 5400}
+2025-05-12 18:43:41,913 - INFO - Заявка #15 сохранена в базе
+2025-05-12 18:43:41,914 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 18:43:41,914 - INFO - Заявка #14 сохранена в базе
+2025-05-12 18:43:41,915 - INFO - 127.0.0.1 - - [12/May/2025 18:43:41] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:43:41,915 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 18:43:41,915 - INFO - 127.0.0.1 - - [12/May/2025 18:43:41] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:45:50,343 - INFO - Запрошен маршрут /
+2025-05-12 18:45:50,357 - INFO - 127.0.0.1 - - [12/May/2025 18:45:50] "GET / HTTP/1.1" 200 -
+2025-05-12 18:45:50,449 - INFO - 127.0.0.1 - - [12/May/2025 18:45:50] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:45:50,449 - INFO - 127.0.0.1 - - [12/May/2025 18:45:50] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:45:50,449 - INFO - 127.0.0.1 - - [12/May/2025 18:45:50] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:45:50,449 - INFO - 127.0.0.1 - - [12/May/2025 18:45:50] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:45:50,450 - INFO - 127.0.0.1 - - [12/May/2025 18:45:50] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 18:45:50,451 - INFO - 127.0.0.1 - - [12/May/2025 18:45:50] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:45:57,106 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:45:57,107 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '12.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 18:45:57,117 - ERROR - Ошибка при создании заявки: (sqlite3.OperationalError) attempt to write a readonly database
+[SQL: INSERT INTO booking (booking_type, entertainment_center, date_time, children_count, children_cost, food_included, food_items, services_included, services_items, transport_included, transport_type, transport_cost, total, status, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('На выезд', 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', '2025-05-12 12:00:00.000000', 0, 0, 0, '[]', 0, '[]', 0, None, 0, 0, 'active', '2025-05-12 13:45:57.112414')]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-12 18:45:57,118 - INFO - 127.0.0.1 - - [12/May/2025 18:45:57] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 500 -
+2025-05-12 18:46:14,303 - INFO - Приложение запущено
+2025-05-12 18:46:14,375 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:46:14,411 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 18:46:14,411 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 18:46:14,412 - INFO -  * Restarting with stat
+2025-05-12 18:46:14,670 - INFO - Приложение запущено
+2025-05-12 18:46:14,713 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:46:14,738 - WARNING -  * Debugger is active!
+2025-05-12 18:46:14,753 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:46:16,572 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 18:46:16,573 - INFO - Application started
+2025-05-12 18:46:16,605 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/getMe "HTTP/1.1 200 OK"
+2025-05-12 18:46:16,605 - INFO - Application started
+2025-05-12 18:46:16,778 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 18:46:16,779 - INFO - Telegram-бот запущен
+2025-05-12 18:46:16,840 - INFO - HTTP Request: POST https://api.telegram.org/bot7630314423:AAH8prs6e7cXSd6a68YT7kGIhCc_r5_FXYQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-12 18:46:16,840 - INFO - Telegram-бот запущен
+2025-05-12 18:46:17,324 - INFO - Запрошен маршрут /
+2025-05-12 18:46:17,337 - INFO - 127.0.0.1 - - [12/May/2025 18:46:17] "GET / HTTP/1.1" 200 -
+2025-05-12 18:46:17,388 - INFO - 127.0.0.1 - - [12/May/2025 18:46:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:46:17,389 - INFO - 127.0.0.1 - - [12/May/2025 18:46:17] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:46:17,390 - INFO - 127.0.0.1 - - [12/May/2025 18:46:17] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:46:17,396 - INFO - 127.0.0.1 - - [12/May/2025 18:46:17] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:46:17,397 - INFO - 127.0.0.1 - - [12/May/2025 18:46:17] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 18:46:17,398 - INFO - 127.0.0.1 - - [12/May/2025 18:46:17] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:46:22,858 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:46:22,859 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 18:46:22,881 - INFO - Заявка #1 сохранена в базе
+2025-05-12 18:46:22,881 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 18:46:22,882 - INFO - 127.0.0.1 - - [12/May/2025 18:46:22] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:47:02,093 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:47:02,095 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': True, 'items': [{'name': 'Пицца маргарита', 'price': 4500, 'quantity': 1}]}, 'services': {'included': True, 'items': [{'name': 'Научное шоу', 'price': 25000}]}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 26550}
+2025-05-12 18:47:02,110 - INFO - Заявка #2 сохранена в базе
+2025-05-12 18:47:02,111 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 18:47:02,112 - INFO - 127.0.0.1 - - [12/May/2025 18:47:02] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:47:34,400 - INFO - Запрошен маршрут /
+2025-05-12 18:47:34,410 - INFO - 127.0.0.1 - - [12/May/2025 18:47:34] "GET / HTTP/1.1" 200 -
+2025-05-12 18:47:34,480 - INFO - 127.0.0.1 - - [12/May/2025 18:47:34] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:47:34,480 - INFO - 127.0.0.1 - - [12/May/2025 18:47:34] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:47:34,482 - INFO - 127.0.0.1 - - [12/May/2025 18:47:34] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:34,494 - INFO - 127.0.0.1 - - [12/May/2025 18:47:34] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:34,494 - INFO - 127.0.0.1 - - [12/May/2025 18:47:34] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 18:47:34,495 - INFO - 127.0.0.1 - - [12/May/2025 18:47:34] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:35,627 - INFO - Запрошен маршрут /
+2025-05-12 18:47:35,628 - INFO - 127.0.0.1 - - [12/May/2025 18:47:35] "GET / HTTP/1.1" 200 -
+2025-05-12 18:47:35,660 - INFO - 127.0.0.1 - - [12/May/2025 18:47:35] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:47:35,661 - INFO - 127.0.0.1 - - [12/May/2025 18:47:35] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:35,662 - INFO - 127.0.0.1 - - [12/May/2025 18:47:35] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:47:35,664 - INFO - 127.0.0.1 - - [12/May/2025 18:47:35] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:35,666 - INFO - 127.0.0.1 - - [12/May/2025 18:47:35] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:35,669 - INFO - 127.0.0.1 - - [12/May/2025 18:47:35] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 18:47:39,353 - INFO - Запрошен маршрут /
+2025-05-12 18:47:39,358 - INFO - 127.0.0.1 - - [12/May/2025 18:47:39] "GET / HTTP/1.1" 200 -
+2025-05-12 18:47:39,391 - INFO - 127.0.0.1 - - [12/May/2025 18:47:39] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:47:39,391 - INFO - 127.0.0.1 - - [12/May/2025 18:47:39] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:47:39,395 - INFO - 127.0.0.1 - - [12/May/2025 18:47:39] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:39,395 - INFO - 127.0.0.1 - - [12/May/2025 18:47:39] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:39,397 - INFO - 127.0.0.1 - - [12/May/2025 18:47:39] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:47:39,398 - INFO - 127.0.0.1 - - [12/May/2025 18:47:39] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 18:48:02,454 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 18:48:02,557 - INFO -  * Restarting with stat
+2025-05-12 18:48:36,839 - INFO - Приложение запущено
+2025-05-12 18:48:57,443 - INFO - Приложение запущено
+2025-05-12 18:48:57,466 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:48:57,467 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 18:48:57,499 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 18:48:57,499 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 18:48:57,499 - INFO -  * Restarting with stat
+2025-05-12 18:48:58,481 - INFO - Приложение запущено
+2025-05-12 18:48:58,494 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:48:58,496 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 18:48:58,511 - WARNING -  * Debugger is active!
+2025-05-12 18:48:58,520 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:49:11,151 - INFO - Приложение запущено
+2025-05-12 18:49:11,169 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:49:11,170 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 18:49:11,194 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 18:49:11,194 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 18:49:11,195 - INFO -  * Restarting with stat
+2025-05-12 18:49:12,153 - INFO - Приложение запущено
+2025-05-12 18:49:12,167 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:49:12,168 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 18:49:12,185 - WARNING -  * Debugger is active!
+2025-05-12 18:49:12,192 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:49:18,858 - INFO - Запрошен маршрут /
+2025-05-12 18:49:18,863 - INFO - 127.0.0.1 - - [12/May/2025 18:49:18] "GET / HTTP/1.1" 200 -
+2025-05-12 18:49:18,938 - INFO - 127.0.0.1 - - [12/May/2025 18:49:18] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:49:18,938 - INFO - 127.0.0.1 - - [12/May/2025 18:49:18] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 18:49:18,938 - INFO - 127.0.0.1 - - [12/May/2025 18:49:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 18:49:18,950 - INFO - 127.0.0.1 - - [12/May/2025 18:49:18] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:49:18,950 - INFO - 127.0.0.1 - - [12/May/2025 18:49:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 18:49:18,950 - INFO - 127.0.0.1 - - [12/May/2025 18:49:18] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 18:49:25,125 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:49:25,126 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 18:49:25,146 - INFO - Заявка #1 сохранена в базе
+2025-05-12 18:49:25,147 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 18:49:25,148 - INFO - 127.0.0.1 - - [12/May/2025 18:49:25] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:49:53,696 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 18:49:53,699 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': True, 'items': [{'name': 'Сок', 'price': 500, 'quantity': 1}]}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 450}
+2025-05-12 18:49:53,716 - INFO - Заявка #2 сохранена в базе
+2025-05-12 18:49:53,718 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 18:49:53,718 - INFO - 127.0.0.1 - - [12/May/2025 18:49:53] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 18:52:36,431 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 18:52:36,727 - INFO -  * Restarting with stat
+2025-05-12 18:52:38,188 - INFO - Приложение запущено
+2025-05-12 18:52:38,214 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:52:38,215 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 18:52:38,241 - WARNING -  * Debugger is active!
+2025-05-12 18:52:38,250 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:52:46,185 - INFO - Приложение запущено
+2025-05-12 18:52:46,202 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:52:46,204 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 18:52:46,232 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 18:52:46,233 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 18:52:46,233 - INFO -  * Restarting with stat
+2025-05-12 18:52:47,254 - INFO - Приложение запущено
+2025-05-12 18:52:47,271 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 18:52:47,272 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 18:52:47,291 - WARNING -  * Debugger is active!
+2025-05-12 18:52:47,300 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 18:53:44,896 - INFO - Запрошен тестовый маршрут /test_booking
+2025-05-12 18:53:44,932 - INFO - Тестовая заявка #3 создана
+2025-05-12 18:53:44,933 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 18:53:44,937 - INFO - 127.0.0.1 - - [12/May/2025 18:53:44] "GET /test_booking HTTP/1.1" 200 -
+2025-05-12 19:05:18,467 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 19:05:18,473 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'My Kids (улица Рыскулова, 8а/5)', 'date_time': '16.05.2025 12:00', 'children': {'count': 31, 'cost': 46500}, 'food': {'included': True, 'items': [{'name': 'Пицца пепперони', 'price': 5000, 'quantity': 1}, {'name': 'Пицца маргарита', 'price': 4500, 'quantity': 1}, {'name': 'Сок', 'price': 500, 'quantity': 1}, {'name': 'Вода', 'price': 300, 'quantity': 1}]}, 'services': {'included': True, 'items': [{'name': 'Магическое шоу', 'price': 20000}, {'name': 'Научное шоу', 'price': 25000}, {'name': 'Аниматор-клоун', 'price': 15000}, {'name': 'Аниматор-супергерой', 'price': 18000}, {'name': 'Аквагрим', 'price': 10000}, {'name': 'Фигурки из шаров', 'price': 8000}]}, 'transport': {'included': True, 'type': 'Туда-обратно (10000 тг)', 'cost': 10000}, 'total': 146520}
+2025-05-12 19:05:18,502 - INFO - Заявка #4 сохранена в базе
+2025-05-12 19:05:18,504 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 19:05:18,506 - INFO - 127.0.0.1 - - [12/May/2025 19:05:18] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 19:05:21,831 - INFO - 127.0.0.1 - - [12/May/2025 19:05:21] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 19:08:14,388 - INFO - Запрошен маршрут /
+2025-05-12 19:08:14,417 - INFO - 127.0.0.1 - - [12/May/2025 19:08:14] "GET / HTTP/1.1" 200 -
+2025-05-12 19:08:14,480 - INFO - 127.0.0.1 - - [12/May/2025 19:08:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 19:08:14,481 - INFO - 127.0.0.1 - - [12/May/2025 19:08:14] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:08:14,481 - INFO - 127.0.0.1 - - [12/May/2025 19:08:14] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 19:08:14,482 - INFO - 127.0.0.1 - - [12/May/2025 19:08:14] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:08:14,483 - INFO - 127.0.0.1 - - [12/May/2025 19:08:14] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:08:14,486 - INFO - 127.0.0.1 - - [12/May/2025 19:08:14] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 19:08:18,219 - INFO - Запрошен маршрут /
+2025-05-12 19:08:18,221 - INFO - 127.0.0.1 - - [12/May/2025 19:08:18] "GET / HTTP/1.1" 200 -
+2025-05-12 19:08:18,235 - INFO - 127.0.0.1 - - [12/May/2025 19:08:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 19:08:18,236 - INFO - 127.0.0.1 - - [12/May/2025 19:08:18] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 19:08:18,237 - INFO - 127.0.0.1 - - [12/May/2025 19:08:18] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:08:18,240 - INFO - 127.0.0.1 - - [12/May/2025 19:08:18] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 19:08:18,241 - INFO - 127.0.0.1 - - [12/May/2025 19:08:18] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:08:18,242 - INFO - 127.0.0.1 - - [12/May/2025 19:08:18] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:08:42,484 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 19:08:42,486 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '12.05.2025 17:50', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 19:08:42,507 - INFO - Заявка #5 сохранена в базе
+2025-05-12 19:08:42,509 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 19:08:42,511 - INFO - 127.0.0.1 - - [12/May/2025 19:08:42] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 19:11:10,011 - INFO - Запрошен маршрут /
+2025-05-12 19:11:10,015 - INFO - 127.0.0.1 - - [12/May/2025 19:11:10] "GET / HTTP/1.1" 200 -
+2025-05-12 19:11:10,067 - INFO - 127.0.0.1 - - [12/May/2025 19:11:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 19:11:10,068 - INFO - 127.0.0.1 - - [12/May/2025 19:11:10] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:11:10,070 - INFO - 127.0.0.1 - - [12/May/2025 19:11:10] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 19:11:10,071 - INFO - 127.0.0.1 - - [12/May/2025 19:11:10] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:11:10,072 - INFO - 127.0.0.1 - - [12/May/2025 19:11:10] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 19:11:10,073 - INFO - 127.0.0.1 - - [12/May/2025 19:11:10] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 19:13:13,261 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 19:13:13,265 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 7, 'cost': 10500}, 'food': {'included': True, 'items': [{'name': 'Пицца пепперони', 'price': 5000, 'quantity': 6}, {'name': 'Пицца маргарита', 'price': 4500, 'quantity': 5}, {'name': 'Сок', 'price': 500, 'quantity': 5}, {'name': 'Вода', 'price': 300, 'quantity': 3}]}, 'services': {'included': True, 'items': [{'name': 'Научное шоу', 'price': 25000}, {'name': 'Фигурки из шаров', 'price': 8000}]}, 'transport': {'included': True, 'type': 'Туда-обратно (10000 тг)', 'cost': 10000}, 'total': 98460}
+2025-05-12 19:13:13,288 - INFO - Заявка #6 сохранена в базе
+2025-05-12 19:13:13,289 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 19:13:13,290 - INFO - 127.0.0.1 - - [12/May/2025 19:13:13] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 20:27:54,164 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 20:27:54,697 - INFO -  * Restarting with stat
+2025-05-12 20:27:56,321 - INFO - Приложение запущено
+2025-05-12 20:28:09,269 - INFO - Приложение запущено
+2025-05-12 20:28:09,292 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:28:09,293 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 20:28:09,329 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 20:28:09,329 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 20:28:09,330 - INFO -  * Restarting with stat
+2025-05-12 20:28:10,293 - INFO - Приложение запущено
+2025-05-12 20:28:10,307 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:28:10,308 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 20:28:10,325 - WARNING -  * Debugger is active!
+2025-05-12 20:28:10,334 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 20:28:26,662 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 20:28:26,819 - INFO -  * Restarting with stat
+2025-05-12 20:28:27,893 - INFO - Приложение запущено
+2025-05-12 20:28:27,910 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:28:27,911 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 20:28:27,933 - WARNING -  * Debugger is active!
+2025-05-12 20:28:27,940 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 20:28:46,976 - INFO - Приложение запущено
+2025-05-12 20:28:47,003 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:28:47,006 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 20:28:47,040 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 20:28:47,040 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 20:28:47,040 - INFO -  * Restarting with stat
+2025-05-12 20:28:48,041 - INFO - Приложение запущено
+2025-05-12 20:28:48,055 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:28:48,056 - ERROR - Ошибка запуска Telegram-бота: set_wakeup_fd only works in main thread of the main interpreter
+2025-05-12 20:28:48,074 - WARNING -  * Debugger is active!
+2025-05-12 20:28:48,083 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 20:29:04,925 - INFO - Запрошен маршрут /
+2025-05-12 20:29:04,938 - INFO - 127.0.0.1 - - [12/May/2025 20:29:04] "GET / HTTP/1.1" 200 -
+2025-05-12 20:29:04,987 - INFO - 127.0.0.1 - - [12/May/2025 20:29:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 20:29:04,988 - INFO - 127.0.0.1 - - [12/May/2025 20:29:04] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 20:29:04,992 - INFO - 127.0.0.1 - - [12/May/2025 20:29:04] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 20:29:04,992 - INFO - 127.0.0.1 - - [12/May/2025 20:29:04] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 20:29:04,992 - INFO - 127.0.0.1 - - [12/May/2025 20:29:04] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-05-12 20:29:04,994 - INFO - 127.0.0.1 - - [12/May/2025 20:29:04] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 20:34:51,749 - INFO - Приложение запущено
+2025-05-12 20:35:07,935 - INFO - Приложение запущено
+2025-05-12 20:35:07,965 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:35:07,966 - INFO - Telegram-бот запущен
+2025-05-12 20:35:07,976 - INFO - Start polling
+2025-05-12 20:35:08,393 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:35:08,831 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:08,831 - INFO - Update id=312133900 is handled. Duration 323 ms by bot id=7630314423
+2025-05-12 20:35:08,855 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:08,855 - INFO - Update id=312133889 is handled. Duration 349 ms by bot id=7630314423
+2025-05-12 20:35:08,885 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:08,885 - INFO - Update id=312133891 is handled. Duration 379 ms by bot id=7630314423
+2025-05-12 20:35:08,911 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:08,912 - INFO - Update id=312133896 is handled. Duration 404 ms by bot id=7630314423
+2025-05-12 20:35:08,935 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:08,935 - INFO - Update id=312133898 is handled. Duration 427 ms by bot id=7630314423
+2025-05-12 20:35:08,960 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:08,961 - INFO - Update id=312133894 is handled. Duration 454 ms by bot id=7630314423
+2025-05-12 20:35:08,992 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:08,992 - INFO - Update id=312133892 is handled. Duration 486 ms by bot id=7630314423
+2025-05-12 20:35:09,019 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:09,019 - INFO - Update id=312133893 is handled. Duration 512 ms by bot id=7630314423
+2025-05-12 20:35:09,051 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:09,051 - INFO - Update id=312133895 is handled. Duration 544 ms by bot id=7630314423
+2025-05-12 20:35:09,063 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:09,063 - INFO - Update id=312133897 is handled. Duration 556 ms by bot id=7630314423
+2025-05-12 20:35:09,090 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:09,090 - INFO - Update id=312133888 is handled. Duration 585 ms by bot id=7630314423
+2025-05-12 20:35:09,103 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:09,104 - INFO - Update id=312133890 is handled. Duration 598 ms by bot id=7630314423
+2025-05-12 20:35:09,129 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:35:09,129 - INFO - Update id=312133899 is handled. Duration 621 ms by bot id=7630314423
+2025-05-12 20:36:06,889 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:36:06,891 - INFO - Update id=312133901 is handled. Duration 195 ms by bot id=7630314423
+2025-05-12 20:37:20,081 - WARNING - Received SIGINT signal
+2025-05-12 20:37:20,088 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:37:20,088 - INFO - Polling stopped
+2025-05-12 20:37:53,461 - INFO - Приложение запущено
+2025-05-12 20:38:13,006 - INFO - Приложение запущено
+2025-05-12 20:38:13,029 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:38:13,358 - INFO - Telegram-бот запущен
+2025-05-12 20:38:13,383 - INFO - Start polling
+2025-05-12 20:38:13,486 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:38:26,132 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:38:26,133 - INFO - Update id=312133902 is handled. Duration 385 ms by bot id=7630314423
+2025-05-12 20:39:20,442 - INFO - Запрошен маршрут /
+2025-05-12 20:39:36,709 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:39:36,710 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:05', 'children': {'count': 3, 'cost': 4500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 4050}
+2025-05-12 20:39:36,754 - INFO - Заявка #7 сохранена в базе
+2025-05-12 20:39:36,754 - ERROR - Ошибка при создании заявки: no running event loop
+2025-05-12 20:39:52,083 - INFO - Запрошен маршрут /
+2025-05-12 20:39:59,300 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:39:59,302 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 4, 'cost': 6000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 5400}
+2025-05-12 20:39:59,329 - INFO - Заявка #8 сохранена в базе
+2025-05-12 20:39:59,330 - ERROR - Ошибка при создании заявки: no running event loop
+2025-05-12 20:40:09,508 - WARNING - Received SIGINT signal
+2025-05-12 20:40:09,511 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:40:09,511 - INFO - Polling stopped
+2025-05-12 20:40:25,368 - INFO - Приложение запущено
+2025-05-12 20:40:25,391 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:40:25,712 - INFO - Telegram-бот запущен
+2025-05-12 20:40:25,735 - INFO - Start polling
+2025-05-12 20:40:25,839 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:40:26,414 - WARNING - Received SIGINT signal
+2025-05-12 20:40:26,416 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:40:26,416 - INFO - Polling stopped
+2025-05-12 20:40:31,287 - INFO - Запрошен маршрут /
+2025-05-12 20:40:33,399 - INFO - Запрошен маршрут /
+2025-05-12 20:40:34,185 - INFO - Запрошен маршрут /
+2025-05-12 20:40:44,661 - INFO - Приложение запущено
+2025-05-12 20:40:44,684 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:40:45,010 - INFO - Telegram-бот запущен
+2025-05-12 20:40:45,033 - INFO - Start polling
+2025-05-12 20:40:45,138 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:40:47,248 - INFO - Запрошен маршрут /
+2025-05-12 20:41:00,235 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:41:00,236 - INFO - Update id=312133903 is handled. Duration 394 ms by bot id=7630314423
+2025-05-12 20:41:09,791 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:41:09,792 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 3, 'cost': 4500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 4050}
+2025-05-12 20:41:09,830 - INFO - Заявка #9 сохранена в базе
+2025-05-12 20:41:09,830 - ERROR - Ошибка при создании заявки: no running event loop
+2025-05-12 20:43:49,975 - WARNING - Received SIGINT signal
+2025-05-12 20:43:49,984 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:43:49,984 - INFO - Polling stopped
+2025-05-12 20:44:03,168 - INFO - Приложение запущено
+2025-05-12 20:44:03,192 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:44:03,525 - INFO - Telegram-бот запущен
+2025-05-12 20:44:03,550 - INFO - Start polling
+2025-05-12 20:44:03,657 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:44:06,913 - INFO - Запрошен маршрут /
+2025-05-12 20:44:07,346 - INFO - Запрошен маршрут /
+2025-05-12 20:44:15,507 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:44:15,508 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '30.05.2025 12:00', 'children': {'count': 3, 'cost': 4500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 4050}
+2025-05-12 20:44:15,530 - INFO - Заявка #10 сохранена в базе
+2025-05-12 20:44:15,530 - ERROR - Ошибка при создании заявки: There is no current event loop in thread 'ThreadPoolExecutor-0_0'.
+2025-05-12 20:44:29,084 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:44:29,085 - INFO - Update id=312133904 is handled. Duration 334 ms by bot id=7630314423
+2025-05-12 20:46:24,611 - INFO - Приложение запущено
+2025-05-12 20:46:24,635 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:46:24,949 - INFO - Telegram-бот запущен
+2025-05-12 20:46:24,967 - INFO - Start polling
+2025-05-12 20:46:25,066 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:46:29,736 - INFO - Запрошен маршрут /
+2025-05-12 20:46:34,743 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:46:34,744 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 6, 'cost': 9000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 8100}
+2025-05-12 20:46:34,767 - INFO - Заявка #11 сохранена в базе
+2025-05-12 20:46:34,767 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 20:46:44,885 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:46:44,886 - INFO - Update id=312133905 is handled. Duration 502 ms by bot id=7630314423
+2025-05-12 20:47:06,879 - INFO - Приложение запущено
+2025-05-12 20:47:06,911 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:47:07,316 - INFO - Telegram-бот запущен
+2025-05-12 20:47:07,335 - INFO - Start polling
+2025-05-12 20:47:07,441 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:47:11,684 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:47:11,685 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 6, 'cost': 9000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 8100}
+2025-05-12 20:47:11,709 - INFO - Заявка #1 сохранена в базе
+2025-05-12 20:47:11,710 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 20:47:59,615 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:47:59,618 - INFO - Update id=312133906 is handled. Duration 396 ms by bot id=7630314423
+2025-05-12 20:49:24,181 - INFO - Запрошен тестовый маршрут /test_booking
+2025-05-12 20:49:24,197 - INFO - Тестовая заявка #2 создана
+2025-05-12 20:49:24,202 - ERROR - Ошибка отправки в chat_id 736038304 для заявки #2: Timeout context manager should be used inside a task
+2025-05-12 20:49:43,347 - INFO - Запрошен маршрут /
+2025-05-12 20:49:46,802 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:49:46,806 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 20:49:46,824 - INFO - Заявка #3 сохранена в базе
+2025-05-12 20:49:46,828 - ERROR - Ошибка отправки в chat_id 736038304 для заявки #3: Timeout context manager should be used inside a task
+2025-05-12 20:52:13,142 - INFO - Приложение запущено
+2025-05-12 20:52:13,174 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:52:13,482 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 20:52:13,499 - INFO - Start polling
+2025-05-12 20:52:13,600 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:52:19,913 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:52:19,915 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 20:52:19,917 - WARNING - Количество детей должно быть больше 0
+2025-05-12 20:52:25,337 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:52:25,338 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 20:52:25,360 - INFO - Заявка #4 сохранена в базе
+2025-05-12 20:52:25,360 - ERROR - Ошибка при создании заявки: There is no current event loop in thread 'ThreadPoolExecutor-0_0'.
+2025-05-12 20:52:27,627 - INFO - Запрошен маршрут /
+2025-05-12 20:52:33,973 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:52:33,974 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 3, 'cost': 4500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 4050}
+2025-05-12 20:52:33,984 - INFO - Заявка #5 сохранена в базе
+2025-05-12 20:52:33,985 - ERROR - Ошибка при создании заявки: There is no current event loop in thread 'ThreadPoolExecutor-0_0'.
+2025-05-12 20:52:43,680 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:52:43,681 - INFO - Update id=312133907 is handled. Duration 386 ms by bot id=7630314423
+2025-05-12 20:55:05,679 - INFO - Запрошен тестовый маршрут /test_booking
+2025-05-12 20:55:05,700 - INFO - Тестовая заявка #6 создана
+2025-05-12 20:55:05,701 - ERROR - Ошибка тестовой заявки: There is no current event loop in thread 'ThreadPoolExecutor-0_0'.
+2025-05-12 20:55:35,834 - INFO - Приложение запущено
+2025-05-12 20:55:35,858 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:55:36,169 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 20:55:36,194 - INFO - Start polling
+2025-05-12 20:55:36,295 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:55:36,970 - INFO - Запрошен маршрут /
+2025-05-12 20:55:37,235 - INFO - Запрошен маршрут /
+2025-05-12 20:55:40,849 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:55:40,851 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 20:55:40,854 - WARNING - Количество детей должно быть больше 0
+2025-05-12 20:55:43,654 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:55:43,656 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 20:55:43,687 - INFO - Заявка #7 сохранена в базе
+2025-05-12 20:55:43,688 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 20:57:03,010 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:57:03,012 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 20:57:03,031 - INFO - Заявка #8 сохранена в базе
+2025-05-12 20:57:03,033 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 20:58:21,792 - INFO - Приложение запущено
+2025-05-12 20:58:21,815 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:58:22,126 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 20:58:22,142 - INFO - Start polling
+2025-05-12 20:58:22,241 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:58:26,223 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:58:26,225 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 20:58:26,251 - INFO - Заявка #9 сохранена в базе
+2025-05-12 20:58:35,924 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 20:58:35,924 - INFO - Update id=312133908 is handled. Duration 362 ms by bot id=7630314423
+2025-05-12 20:58:39,597 - INFO - Запрошен маршрут /
+2025-05-12 20:58:45,041 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:58:45,042 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 20:58:45,061 - INFO - Заявка #10 сохранена в базе
+2025-05-12 20:59:45,877 - INFO - Приложение запущено
+2025-05-12 20:59:45,902 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 20:59:46,230 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 20:59:46,254 - INFO - Start polling
+2025-05-12 20:59:46,360 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 20:59:51,436 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 20:59:51,436 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 20:59:51,446 - INFO - Заявка #11 сохранена в базе
+2025-05-12 20:59:51,448 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 21:00:00,219 - INFO - Запрошен маршрут /
+2025-05-12 21:00:04,682 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:00:04,683 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:00:04,697 - INFO - Заявка #12 сохранена в базе
+2025-05-12 21:00:04,701 - WARNING - Нет chat_id для отправки сообщений
+2025-05-12 21:00:14,463 - WARNING - Received SIGINT signal
+2025-05-12 21:00:14,469 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:00:14,469 - INFO - Polling stopped
+2025-05-12 21:00:18,379 - INFO - Приложение запущено
+2025-05-12 21:00:18,400 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:00:18,701 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 21:00:18,725 - INFO - Start polling
+2025-05-12 21:00:18,823 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:00:20,233 - INFO - Запрошен маршрут /
+2025-05-12 21:00:25,204 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 21:00:25,205 - INFO - Update id=312133909 is handled. Duration 394 ms by bot id=7630314423
+2025-05-12 21:00:29,543 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:00:29,544 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:00:29,546 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:00:32,355 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:00:32,356 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:00:32,380 - INFO - Заявка #13 сохранена в базе
+2025-05-12 21:02:28,550 - INFO - Приложение запущено
+2025-05-12 21:02:28,576 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:02:28,906 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 21:02:28,927 - INFO - Start polling
+2025-05-12 21:02:29,057 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:02:29,217 - INFO - Запрошен маршрут /
+2025-05-12 21:02:33,097 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:02:33,099 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:02:33,102 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:02:37,008 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:02:37,009 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 1, 'cost': 1500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 1350}
+2025-05-12 21:02:37,041 - INFO - Заявка #14 сохранена в базе
+2025-05-12 21:02:37,042 - ERROR - Ошибка при создании заявки: There is no current event loop in thread 'ThreadPoolExecutor-0_0'.
+2025-05-12 21:02:43,250 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 21:02:43,251 - INFO - Update id=312133910 is handled. Duration 524 ms by bot id=7630314423
+2025-05-12 21:03:19,918 - INFO - Приложение запущено
+2025-05-12 21:03:19,948 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:03:20,260 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 21:03:20,348 - INFO - Start polling
+2025-05-12 21:03:20,452 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:03:20,668 - INFO - Запрошен маршрут /
+2025-05-12 21:03:23,559 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:03:23,560 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:03:23,563 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:03:26,184 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:03:26,185 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:03:26,217 - INFO - Заявка #15 сохранена в базе
+2025-05-12 21:06:14,889 - INFO - Приложение запущено
+2025-05-12 21:06:14,915 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:06:15,238 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 21:06:15,265 - INFO - Start polling
+2025-05-12 21:06:15,367 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:06:15,705 - INFO - Запрошен маршрут /
+2025-05-12 21:06:23,473 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:06:23,474 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:06:23,476 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:06:26,305 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:06:26,320 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:06:26,337 - INFO - Заявка #16 сохранена в базе
+2025-05-12 21:06:37,873 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 21:06:37,874 - INFO - Update id=312133911 is handled. Duration 446 ms by bot id=7630314423
+2025-05-12 21:06:46,286 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:06:46,288 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '22.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:06:46,313 - INFO - Заявка #17 сохранена в базе
+2025-05-12 21:35:22,276 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-12 21:35:22,284 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-12 21:44:21,587 - INFO - Connection established (tryings = 1, bot id = 7630314423)
+2025-05-12 21:45:51,623 - INFO - Приложение запущено
+2025-05-12 21:45:51,672 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:45:51,697 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-12 21:45:51,697 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-12 21:45:51,697 - INFO -  * Restarting with stat
+2025-05-12 21:45:52,762 - INFO - Приложение запущено
+2025-05-12 21:45:52,808 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:45:52,829 - WARNING -  * Debugger is active!
+2025-05-12 21:45:52,841 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 21:45:56,638 - INFO - Запрошен маршрут /
+2025-05-12 21:45:56,647 - INFO - 127.0.0.1 - - [12/May/2025 21:45:56] "GET / HTTP/1.1" 200 -
+2025-05-12 21:45:56,738 - INFO - 127.0.0.1 - - [12/May/2025 21:45:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 21:45:56,740 - INFO - 127.0.0.1 - - [12/May/2025 21:45:56] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 21:45:56,740 - INFO - 127.0.0.1 - - [12/May/2025 21:45:56] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 21:45:56,740 - INFO - 127.0.0.1 - - [12/May/2025 21:45:56] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 21:45:56,741 - INFO - 127.0.0.1 - - [12/May/2025 21:45:56] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 21:45:56,743 - INFO - 127.0.0.1 - - [12/May/2025 21:45:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 21:46:07,104 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:46:07,106 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 3, 'cost': 4500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 4050}
+2025-05-12 21:46:07,138 - INFO - Заявка #18 сохранена в базе
+2025-05-12 21:46:07,139 - INFO - 127.0.0.1 - - [12/May/2025 21:46:07] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 21:47:09,134 - INFO - Запрошен маршрут /
+2025-05-12 21:47:09,149 - INFO - 127.0.0.1 - - [12/May/2025 21:47:09] "GET / HTTP/1.1" 200 -
+2025-05-12 21:47:09,262 - INFO - 127.0.0.1 - - [12/May/2025 21:47:09] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-05-12 21:47:09,264 - INFO - 127.0.0.1 - - [12/May/2025 21:47:09] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+2025-05-12 21:47:09,267 - INFO - 127.0.0.1 - - [12/May/2025 21:47:09] "[36mGET /static/images/favorite.svg HTTP/1.1[0m" 304 -
+2025-05-12 21:47:09,269 - INFO - 127.0.0.1 - - [12/May/2025 21:47:09] "[36mGET /static/images/person.svg HTTP/1.1[0m" 304 -
+2025-05-12 21:47:09,269 - INFO - 127.0.0.1 - - [12/May/2025 21:47:09] "[36mGET /static/images/cart.svg HTTP/1.1[0m" 304 -
+2025-05-12 21:47:09,270 - INFO - 127.0.0.1 - - [12/May/2025 21:47:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+2025-05-12 21:47:10,191 - INFO - 127.0.0.1 - - [12/May/2025 21:47:10] "GET /socket.io/?EIO=4&transport=polling&t=PR5PATa HTTP/1.1" 200 -
+2025-05-12 21:47:10,220 - INFO - Клиент подключился к WebSocket
+2025-05-12 21:47:10,221 - INFO - 127.0.0.1 - - [12/May/2025 21:47:10] "POST /socket.io/?EIO=4&transport=polling&t=PR5PAT-&sid=qNSVWXACniestk6FAAAA HTTP/1.1" 200 -
+2025-05-12 21:47:10,226 - INFO - 127.0.0.1 - - [12/May/2025 21:47:10] "GET /socket.io/?EIO=4&transport=polling&t=PR5PAU2&sid=qNSVWXACniestk6FAAAA HTTP/1.1" 200 -
+2025-05-12 21:47:10,230 - INFO - 127.0.0.1 - - [12/May/2025 21:47:10] "GET /socket.io/?EIO=4&transport=polling&t=PR5PAUK&sid=qNSVWXACniestk6FAAAA HTTP/1.1" 200 -
+2025-05-12 21:47:10,232 - INFO - 127.0.0.1 - - [12/May/2025 21:47:10] "GET /socket.io/?EIO=4&transport=polling&t=PR5PAUM&sid=qNSVWXACniestk6FAAAA HTTP/1.1" 200 -
+2025-05-12 21:47:15,861 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:47:15,864 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': True, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:47:15,869 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:47:15,870 - INFO - 127.0.0.1 - - [12/May/2025 21:47:15] "[31m[1mPOST /api/bookings HTTP/1.1[0m" 400 -
+2025-05-12 21:47:18,693 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:47:18,693 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': True, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:47:18,708 - INFO - Заявка #19 сохранена в базе
+2025-05-12 21:47:18,709 - INFO - 127.0.0.1 - - [12/May/2025 21:47:18] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 21:47:52,176 - INFO -  * Detected change in '/Users/samandarlev/Desktop/tapgo_request-site/app.py', reloading
+2025-05-12 21:47:52,359 - INFO -  * Restarting with stat
+2025-05-12 21:47:53,677 - INFO - Приложение запущено
+2025-05-12 21:47:53,722 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:47:53,742 - WARNING -  * Debugger is active!
+2025-05-12 21:47:53,749 - INFO -  * Debugger PIN: 172-640-283
+2025-05-12 21:47:53,889 - INFO - 127.0.0.1 - - [12/May/2025 21:47:53] "GET /socket.io/?EIO=4&transport=polling&t=PR5PL8A HTTP/1.1" 200 -
+2025-05-12 21:47:53,899 - INFO - Клиент подключился к WebSocket
+2025-05-12 21:47:53,900 - INFO - 127.0.0.1 - - [12/May/2025 21:47:53] "POST /socket.io/?EIO=4&transport=polling&t=PR5PL8e&sid=cqZKCIG2w4n7Y_fLAAAA HTTP/1.1" 200 -
+2025-05-12 21:47:53,906 - INFO - 127.0.0.1 - - [12/May/2025 21:47:53] "GET /socket.io/?EIO=4&transport=polling&t=PR5PL8j&sid=cqZKCIG2w4n7Y_fLAAAA HTTP/1.1" 200 -
+2025-05-12 21:47:53,912 - INFO - 127.0.0.1 - - [12/May/2025 21:47:53] "GET /socket.io/?EIO=4&transport=polling&t=PR5PL8t&sid=cqZKCIG2w4n7Y_fLAAAA HTTP/1.1" 200 -
+2025-05-12 21:48:00,810 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 21:48:00,813 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': True, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:48:00,842 - INFO - Заявка #20 сохранена в базе
+2025-05-12 21:48:00,847 - INFO - 127.0.0.1 - - [12/May/2025 21:48:00] "[35m[1mPOST /api/bookings HTTP/1.1[0m" 201 -
+2025-05-12 21:50:23,803 - INFO - Приложение запущено
+2025-05-12 21:50:23,846 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:50:24,247 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 21:50:24,261 - INFO - Start polling
+2025-05-12 21:50:24,380 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:50:27,528 - INFO - Клиент подключился к WebSocket
+2025-05-12 21:50:52,539 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:50:52,544 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': True, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:50:52,594 - INFO - Заявка #21 сохранена в базе
+2025-05-12 21:50:52,597 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:50:52,597 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': True, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:50:52,599 - INFO - Заявка #22 сохранена в базе
+2025-05-12 21:50:52,601 - INFO - Запрошен маршрут /
+2025-05-12 21:50:52,741 - INFO - Клиент подключился к WebSocket
+2025-05-12 21:50:59,874 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 21:50:59,875 - INFO - Update id=312133913 is handled. Duration 405 ms by bot id=7630314423
+2025-05-12 21:51:42,818 - INFO - Запрошен маршрут /
+2025-05-12 21:51:42,824 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:51:42,824 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 4, 'cost': 6000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 5400}
+2025-05-12 21:51:42,893 - INFO - Заявка #23 сохранена в базе
+2025-05-12 21:51:42,895 - INFO - Клиент отключился от WebSocket
+2025-05-12 21:51:48,086 - INFO - Клиент подключился к WebSocket
+2025-05-12 21:52:13,093 - INFO - Запрошен маршрут /
+2025-05-12 21:52:38,248 - INFO - Клиент подключился к WebSocket
+2025-05-12 21:52:47,571 - INFO - Клиент отключился от WebSocket
+2025-05-12 21:53:03,217 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:53:03,219 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:53:03,225 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:53:03,227 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:53:03,228 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:53:03,228 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:53:03,234 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:53:03,235 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 21:53:03,260 - INFO - Заявка #24 сохранена в базе
+2025-05-12 21:53:03,260 - INFO - Клиент отключился от WebSocket
+2025-05-12 21:53:09,228 - WARNING - Received SIGINT signal
+2025-05-12 21:53:09,240 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:53:09,242 - INFO - Polling stopped
+2025-05-12 21:57:21,302 - INFO - Приложение запущено
+2025-05-12 21:57:21,328 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:57:21,729 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 21:57:21,753 - INFO - Start polling
+2025-05-12 21:57:21,853 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:57:30,898 - INFO - Запрошен маршрут /
+2025-05-12 21:57:31,257 - INFO - Запрошен маршрут /
+2025-05-12 21:57:32,638 - INFO - Запрошен маршрут /
+2025-05-12 21:57:35,682 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:57:35,682 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '06.06.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 21:57:35,684 - WARNING - Количество детей должно быть больше 0
+2025-05-12 21:57:38,449 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:57:38,451 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '06.06.2025 12:00', 'children': {'count': 1, 'cost': 1500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 1350}
+2025-05-12 21:57:38,473 - INFO - Заявка #1 сохранена в базе
+2025-05-12 21:57:48,151 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 21:57:48,152 - INFO - Update id=312133914 is handled. Duration 374 ms by bot id=7630314423
+2025-05-12 21:58:54,336 - INFO - Приложение запущено
+2025-05-12 21:58:54,367 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:58:54,709 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 21:58:54,729 - INFO - Start polling
+2025-05-12 21:58:54,836 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:59:18,688 - INFO - Приложение запущено
+2025-05-12 21:59:18,712 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 21:59:19,040 - INFO - Start polling
+2025-05-12 21:59:19,152 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 21:59:24,245 - INFO - Запрошен маршрут /
+2025-05-12 21:59:28,771 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 21:59:28,771 - INFO - Update id=312133915 is handled. Duration 366 ms by bot id=7630314423
+2025-05-12 21:59:34,196 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 21:59:34,200 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '16.05.2025 12:00', 'children': {'count': 3, 'cost': 4500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 4050}
+2025-05-12 21:59:34,219 - INFO - Заявка #2 сохранена в базе
+2025-05-12 22:01:04,879 - INFO - Приложение запущено
+2025-05-12 22:01:04,905 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:01:05,237 - INFO - Telegram-бот и Flask-сервер запущены
+2025-05-12 22:01:05,266 - INFO - Start polling
+2025-05-12 22:01:05,370 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 22:01:11,875 - INFO - Запрошен маршрут /
+2025-05-12 22:01:17,009 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 22:01:17,010 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '16.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 22:01:17,020 - INFO - Заявка #3 сохранена в базе
+2025-05-12 22:01:17,020 - ERROR - Ошибка при отправке заявки #3 в Telegram: There is no current event loop in thread 'ThreadPoolExecutor-0_0'.
+2025-05-12 22:01:26,015 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 22:01:26,016 - INFO - Update id=312133916 is handled. Duration 457 ms by bot id=7630314423
+2025-05-12 22:02:49,144 - INFO - Приложение запущено
+2025-05-12 22:02:49,174 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:02:49,598 - INFO - Telegram-бот и Flask-сервер запущены
+2025-05-12 22:02:49,621 - INFO - Start polling
+2025-05-12 22:02:49,734 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 22:02:56,529 - INFO - Запрошен маршрут /
+2025-05-12 22:02:59,297 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 22:02:59,300 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 0, 'cost': 0}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 0}
+2025-05-12 22:02:59,302 - WARNING - Количество детей должно быть больше 0
+2025-05-12 22:03:02,077 - INFO - Получен POST-запрос на /api/bookings, request_id=no-request-id
+2025-05-12 22:03:02,081 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '14.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-12 22:03:02,108 - INFO - Заявка #4 сохранена в базе
+2025-05-12 22:03:08,082 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 22:03:08,083 - INFO - Update id=312133917 is handled. Duration 539 ms by bot id=7630314423
+2025-05-12 22:09:46,748 - WARNING - Received SIGINT signal
+2025-05-12 22:09:46,766 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 22:09:46,767 - INFO - Polling stopped
+2025-05-12 22:20:44,973 - INFO - Приложение запущено
+2025-05-12 22:20:44,998 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:20:45,313 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 22:20:45,341 - INFO - Start polling
+2025-05-12 22:20:45,342 - INFO - Polling stopped
+2025-05-12 22:20:51,950 - INFO - Приложение запущено
+2025-05-12 22:20:51,968 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:20:52,294 - INFO - Telegram-бот и обработчик очереди запущены
+2025-05-12 22:20:52,333 - INFO - Start polling
+2025-05-12 22:20:52,442 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 22:20:54,720 - INFO - Запрошен маршрут /
+2025-05-12 22:20:56,722 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:20:56,722 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-12 22:21:02,371 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:02,373 - WARNING - Sleep for 1.303037 seconds and try again... (tryings = 1, bot id = 7630314423)
+2025-05-12 22:21:08,740 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:08,741 - WARNING - Sleep for 1.748022 seconds and try again... (tryings = 2, bot id = 7630314423)
+2025-05-12 22:21:12,797 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 22:21:12,799 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 1, 'cost': 1500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 1350}
+2025-05-12 22:21:12,831 - INFO - Заявка #6 сохранена в базе
+2025-05-12 22:21:16,228 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:16,229 - WARNING - Sleep for 2.343455 seconds and try again... (tryings = 3, bot id = 7630314423)
+2025-05-12 22:21:21,845 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:21,846 - WARNING - Sleep for 3.164771 seconds and try again... (tryings = 4, bot id = 7630314423)
+2025-05-12 22:21:28,791 - INFO - Connection established (tryings = 5, bot id = 7630314423)
+2025-05-12 22:21:29,144 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 22:21:29,144 - INFO - Update id=312133920 is handled. Duration 351 ms by bot id=7630314423
+2025-05-12 22:21:29,395 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:29,395 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-12 22:21:38,878 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:38,881 - WARNING - Sleep for 1.111096 seconds and try again... (tryings = 1, bot id = 7630314423)
+2025-05-12 22:21:48,202 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:48,203 - WARNING - Sleep for 1.467410 seconds and try again... (tryings = 2, bot id = 7630314423)
+2025-05-12 22:21:58,014 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:21:58,016 - WARNING - Sleep for 1.904850 seconds and try again... (tryings = 3, bot id = 7630314423)
+2025-05-12 22:22:08,073 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:22:08,083 - WARNING - Sleep for 2.398036 seconds and try again... (tryings = 4, bot id = 7630314423)
+2025-05-12 22:22:18,827 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:22:18,828 - WARNING - Sleep for 2.962862 seconds and try again... (tryings = 5, bot id = 7630314423)
+2025-05-12 22:22:27,141 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:22:27,141 - WARNING - Sleep for 3.815764 seconds and try again... (tryings = 6, bot id = 7630314423)
+2025-05-12 22:22:36,095 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:22:36,096 - WARNING - Sleep for 4.898143 seconds and try again... (tryings = 7, bot id = 7630314423)
+2025-05-12 22:22:46,269 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:22:46,270 - WARNING - Sleep for 4.942003 seconds and try again... (tryings = 8, bot id = 7630314423)
+2025-05-12 22:22:56,581 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:22:56,582 - WARNING - Sleep for 4.875885 seconds and try again... (tryings = 9, bot id = 7630314423)
+2025-05-12 22:23:06,750 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:23:06,752 - WARNING - Sleep for 5.074629 seconds and try again... (tryings = 10, bot id = 7630314423)
+2025-05-12 22:23:17,045 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:23:17,046 - WARNING - Sleep for 4.936171 seconds and try again... (tryings = 11, bot id = 7630314423)
+2025-05-12 22:23:27,265 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:23:27,266 - WARNING - Sleep for 4.947669 seconds and try again... (tryings = 12, bot id = 7630314423)
+2025-05-12 22:23:37,354 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:23:37,355 - WARNING - Sleep for 5.008210 seconds and try again... (tryings = 13, bot id = 7630314423)
+2025-05-12 22:23:47,567 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:23:47,567 - WARNING - Sleep for 5.025987 seconds and try again... (tryings = 14, bot id = 7630314423)
+2025-05-12 22:23:57,777 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:23:57,779 - WARNING - Sleep for 4.924153 seconds and try again... (tryings = 15, bot id = 7630314423)
+2025-05-12 22:24:08,021 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:24:08,022 - WARNING - Sleep for 5.119370 seconds and try again... (tryings = 16, bot id = 7630314423)
+2025-05-12 22:24:18,351 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:24:18,353 - WARNING - Sleep for 5.087769 seconds and try again... (tryings = 17, bot id = 7630314423)
+2025-05-12 22:24:28,570 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:24:28,571 - WARNING - Sleep for 5.057635 seconds and try again... (tryings = 18, bot id = 7630314423)
+2025-05-12 22:24:38,819 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-12 22:24:38,821 - WARNING - Sleep for 5.113417 seconds and try again... (tryings = 19, bot id = 7630314423)
+2025-05-12 22:24:57,080 - INFO - Приложение запущено
+2025-05-12 22:24:57,106 - INFO - База данных bookings.db создана или уже существует (__main__ initial)
+2025-05-12 22:24:57,106 - INFO - Запуск Uvicorn...
+2025-05-12 22:33:57,612 - INFO - Приложение запущено
+2025-05-12 22:33:57,635 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:33:57,636 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:33:57,947 - INFO - Telegram-бот и Flask-сервер запущены
+2025-05-12 22:33:57,986 - INFO - Start polling
+2025-05-12 22:33:57,987 - INFO - Polling stopped
+2025-05-12 22:34:08,686 - INFO - Приложение запущено
+2025-05-12 22:34:08,707 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:34:08,708 - INFO - База данных bookings.db создана или уже существует
+2025-05-12 22:34:09,001 - INFO - Telegram-бот и Flask-сервер запущены
+2025-05-12 22:34:09,041 - INFO - Start polling
+2025-05-12 22:34:09,042 - INFO - Polling stopped
+2025-05-12 22:37:43,121 - INFO - Приложение запущено
+2025-05-12 22:37:43,143 - INFO - База данных bookings.db создана или уже существует (__main__ initial)
+2025-05-12 22:37:43,143 - INFO - Запуск основного асинхронного цикла (RUN_MAIN=None)...
+2025-05-12 22:37:43,144 - INFO - Запуск async run_server_and_bot...
+2025-05-12 22:37:43,144 - INFO - База данных bookings.db создана или уже существует (run_server_and_bot)
+2025-05-12 22:37:43,144 - INFO - Telegram-бот запущен как asyncio задача
+2025-05-12 22:37:43,144 - INFO - Обработчик очереди запущен как asyncio задача
+2025-05-12 22:37:43,144 - INFO - Запуск Uvicorn сервера на 0.0.0.0:5000
+2025-05-12 22:37:43,162 - INFO - Start polling
+2025-05-12 22:37:43,162 - INFO - Запущен обработчик очереди сообщений
+2025-05-12 22:37:43,164 - INFO - Polling stopped
+2025-05-12 22:37:53,589 - INFO - Приложение запущено
+2025-05-12 22:37:53,610 - INFO - База данных bookings.db создана или уже существует (__main__ initial)
+2025-05-12 22:37:53,610 - INFO - Запуск основного асинхронного цикла (RUN_MAIN=None)...
+2025-05-12 22:37:53,611 - INFO - Запуск async run_server_and_bot...
+2025-05-12 22:37:53,611 - INFO - База данных bookings.db создана или уже существует (run_server_and_bot)
+2025-05-12 22:37:53,611 - INFO - Telegram-бот запущен как asyncio задача
+2025-05-12 22:37:53,611 - INFO - Обработчик очереди запущен как asyncio задача
+2025-05-12 22:37:53,611 - INFO - Запуск Uvicorn сервера на 0.0.0.0:5000
+2025-05-12 22:37:53,631 - INFO - Start polling
+2025-05-12 22:37:53,631 - INFO - Запущен обработчик очереди сообщений
+2025-05-12 22:37:53,632 - INFO - Polling stopped
+2025-05-12 22:41:54,722 - INFO - Приложение запущено
+2025-05-12 22:41:54,748 - INFO - База данных bookings.db создана или уже существует (__main__ initial)
+2025-05-12 22:41:54,748 - INFO - Запуск основного асинхронного цикла (RUN_MAIN=None)...
+2025-05-12 22:41:54,748 - INFO - Запуск async run_server_and_bot...
+2025-05-12 22:41:54,748 - INFO - База данных bookings.db создана или уже существует (run_server_and_bot)
+2025-05-12 22:41:54,748 - INFO - Telegram-бот запущен как asyncio задача
+2025-05-12 22:41:54,748 - INFO - Обработчик очереди запущен как asyncio задача
+2025-05-12 22:41:54,749 - INFO - Запуск Uvicorn сервера на 0.0.0.0:5001
+2025-05-12 22:41:54,768 - INFO - Start polling
+2025-05-12 22:41:54,768 - INFO - Запущен обработчик очереди сообщений
+2025-05-12 22:41:55,110 - INFO - Run polling for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-12 22:42:09,334 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 22:42:09,336 - INFO - Update id=312133921 is handled. Duration 408 ms by bot id=7630314423
+2025-05-12 22:42:21,884 - INFO - Запрошен маршрут /
+2025-05-12 22:42:26,235 - INFO - Запрошен тестовый маршрут /test_booking
+2025-05-12 22:42:26,269 - INFO - Тестовая заявка #1 создана
+2025-05-12 22:42:26,269 - ERROR - Не удалось получить текущий running loop для добавления тестовой заявки в очередь: no running event loop
+2025-05-12 22:42:38,754 - INFO - Запрошен маршрут /
+2025-05-12 22:42:44,603 - INFO - Получен POST-запрос на /api/bookings
+2025-05-12 22:42:44,604 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '13.05.2025 12:00', 'children': {'count': 3, 'cost': 4500}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 4050}
+2025-05-12 22:42:44,618 - INFO - Заявка #2 сохранена в базе
+2025-05-12 22:42:44,618 - ERROR - Не удалось получить текущий running loop для добавления в очередь: no running event loop
+2025-05-12 22:42:56,948 - INFO - Добавлен chat_id: 736038304, текущие chat_ids: {736038304}
+2025-05-12 22:42:56,948 - INFO - Update id=312133922 is handled. Duration 159 ms by bot id=7630314423
+2025-05-12 23:05:59,759 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-12 23:05:59,762 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-12 23:06:10,873 - INFO - Connection established (tryings = 1, bot id = 7630314423)
+2025-05-13 04:28:42,127 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 04:28:42,132 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-13 04:43:53,563 - INFO - Connection established (tryings = 1, bot id = 7630314423)
+2025-05-13 07:32:20,659 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 07:32:20,661 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-13 08:55:26,789 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 08:55:26,791 - WARNING - Sleep for 1.315353 seconds and try again... (tryings = 1, bot id = 7630314423)
+2025-05-13 09:35:43,906 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 09:35:43,909 - WARNING - Sleep for 1.544204 seconds and try again... (tryings = 2, bot id = 7630314423)
+2025-05-13 09:35:55,785 - INFO - Connection established (tryings = 3, bot id = 7630314423)
+2025-05-13 11:20:55,166 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 11:20:55,169 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-13 12:26:46,205 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 12:26:46,207 - WARNING - Sleep for 1.270185 seconds and try again... (tryings = 1, bot id = 7630314423)
+2025-05-13 12:26:47,495 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:26:47,495 - WARNING - Sleep for 1.744342 seconds and try again... (tryings = 2, bot id = 7630314423)
+2025-05-13 12:26:49,244 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:26:49,245 - WARNING - Sleep for 2.324848 seconds and try again... (tryings = 3, bot id = 7630314423)
+2025-05-13 12:26:51,575 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:26:51,575 - WARNING - Sleep for 2.799049 seconds and try again... (tryings = 4, bot id = 7630314423)
+2025-05-13 12:26:54,378 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:26:54,379 - WARNING - Sleep for 3.586381 seconds and try again... (tryings = 5, bot id = 7630314423)
+2025-05-13 12:26:57,971 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:26:57,972 - WARNING - Sleep for 4.698612 seconds and try again... (tryings = 6, bot id = 7630314423)
+2025-05-13 12:27:02,675 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:02,677 - WARNING - Sleep for 5.060862 seconds and try again... (tryings = 7, bot id = 7630314423)
+2025-05-13 12:27:07,742 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:07,744 - WARNING - Sleep for 5.173812 seconds and try again... (tryings = 8, bot id = 7630314423)
+2025-05-13 12:27:12,924 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:12,925 - WARNING - Sleep for 4.947148 seconds and try again... (tryings = 9, bot id = 7630314423)
+2025-05-13 12:27:17,877 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:17,877 - WARNING - Sleep for 5.045449 seconds and try again... (tryings = 10, bot id = 7630314423)
+2025-05-13 12:27:22,955 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:22,955 - WARNING - Sleep for 4.889402 seconds and try again... (tryings = 11, bot id = 7630314423)
+2025-05-13 12:27:27,849 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:27,850 - WARNING - Sleep for 5.046508 seconds and try again... (tryings = 12, bot id = 7630314423)
+2025-05-13 12:27:32,899 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:32,900 - WARNING - Sleep for 5.044297 seconds and try again... (tryings = 13, bot id = 7630314423)
+2025-05-13 12:27:37,949 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:27:37,950 - WARNING - Sleep for 5.023775 seconds and try again... (tryings = 14, bot id = 7630314423)
+2025-05-13 12:36:20,264 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:36:20,264 - WARNING - Sleep for 5.065233 seconds and try again... (tryings = 15, bot id = 7630314423)
+2025-05-13 12:52:39,855 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:52:39,856 - WARNING - Sleep for 4.978215 seconds and try again... (tryings = 16, bot id = 7630314423)
+2025-05-13 12:52:44,836 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 12:52:44,837 - WARNING - Sleep for 4.968078 seconds and try again... (tryings = 17, bot id = 7630314423)
+2025-05-13 13:05:03,956 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 13:05:03,957 - WARNING - Sleep for 5.047954 seconds and try again... (tryings = 18, bot id = 7630314423)
+2025-05-13 13:05:09,012 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Network is unreachable]
+2025-05-13 13:05:09,013 - WARNING - Sleep for 4.911993 seconds and try again... (tryings = 19, bot id = 7630314423)
+2025-05-13 13:05:24,519 - INFO - Connection established (tryings = 20, bot id = 7630314423)
+2025-05-13 13:17:10,120 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 13:17:10,132 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-13 13:17:40,726 - INFO - Connection established (tryings = 1, bot id = 7630314423)
+2025-05-13 13:29:39,067 - INFO - Запрошен маршрут /
+2025-05-13 13:29:55,134 - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-13 13:29:55,137 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7630314423)
+2025-05-13 13:30:06,463 - INFO - Connection established (tryings = 1, bot id = 7630314423)
+2025-05-13 13:30:35,974 - INFO - Запрошен маршрут /
+2025-05-13 13:30:42,235 - INFO - Получен POST-запрос на /api/bookings
+2025-05-13 13:30:42,238 - INFO - Полученные данные: {'booking_type': 'На выезд', 'entertainment_center': 'Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)', 'date_time': '15.05.2025 12:00', 'children': {'count': 2, 'cost': 3000}, 'food': {'included': False, 'items': []}, 'services': {'included': False, 'items': []}, 'transport': {'included': False, 'type': None, 'cost': 0}, 'total': 2700}
+2025-05-13 13:30:42,291 - INFO - Заявка #3 сохранена в базе
+2025-05-13 13:30:42,291 - ERROR - Не удалось получить текущий running loop для добавления в очередь: no running event loop
+2025-05-13 13:39:02,023 - WARNING - Received SIGINT signal
+2025-05-13 13:39:02,054 - INFO - Polling stopped for bot @botbotbotbot123123123_bot id=7630314423 - '1213114'
+2025-05-13 13:39:02,055 - INFO - Polling stopped

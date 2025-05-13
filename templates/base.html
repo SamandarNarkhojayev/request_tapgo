@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}My Flask App{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+    <header>
+        <div>
+            <img class="logo" src="/static/images/logo.png" alt="Logo">
+        </div>
+
+        <nav>
+            <ul>
+                <li><img src="/static/images/favorite.svg" alt=""></li>
+                <li><img src="/static/images/cart.svg" alt=""></li>
+                <li><img src="/static/images/person.svg" alt=""></li> 
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+
+    </footer>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/ru.js"></script>
+
+    <!-- JS подключение -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.7.5/socket.io.js"></script>
+<script>
+    const socket = io('http://127.0.0.1:5000');
+    
+    socket.on('connect', () => {
+        console.log('Подключено к WebSocket');
+    });
+    
+    socket.on('new_booking', (data) => {
+        console.log('Новая заявка:', data);
+        alert(`Новая заявка #${data.id}: ${data.total} тг`);
+    });
+</script>
+</body>
+</html>

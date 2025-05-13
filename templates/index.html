@@ -1,0 +1,160 @@
+{% extends "base.html" %}
+
+{% block title %}
+Бронирование досуга
+{% endblock %}
+
+{% block content %}
+
+<div class="main_container">
+    <div class="title_container">
+        <h1>Бронирование досуга</h1>
+        <h2>Выберите развлекательный центр, укажите время и количество детей</h2>
+    </div>
+
+    <div class="button_container">
+        <button id="outing_button" class="active">На выезд</button>
+        <button id="invitation_button">Приглашение</button>
+    </div>
+
+    <div class="form_container">
+        <div class="form_row">
+            <div class="form_group full_width">
+                <label for="entertainment_center">Развлекательный центр</label>
+                <select id="entertainment_center" name="entertainment_center">
+                    <option>
+                        Funky Town (ТРЦ «Shymkent Plaza», пл. Аль-Фараби, 3/1)
+                    </option>
+                     <option>
+                        Avatariya (мкр.Нурсат 177Б)
+                    </option>
+                     <option>
+                        My Kids (улица Рыскулова, 8а/5)
+                    </option> 
+                    <option>
+                        PlayPark (Байдибек Би 25)
+                    </option>
+                     <option>
+                        PlayPark (Тауке Хана 13)
+                    </option>
+
+                    <option>
+                        PlayPark (Тауке Хана 13)
+                    </option>
+
+                    <option>
+                        Kinopark (Тауке Хана 13)
+                    </option>
+
+
+                </select>
+            </div>
+        </div>
+
+        <div class="form_row">
+            <div class="form_group">
+                <label for="date_time">Дата и время</label>
+                <input type="text" id="date_time" name="date_time" readonly>
+                <span class="icon_calendar">📅</span>
+            </div>
+            <div class="form_group">
+                <label for="children_count">Количество детей</label>
+                <div class="quantity_control">
+                    <button type="button" class="decrement">-</button>
+                    <input type="number" class="quantity_display" id="children_count" name="children_count" value="0" min="0" readonly>
+                    <button type="button" class="increment">+</button>
+                </div>
+                <span class="cost_display" id="children_cost">0 тенге</span>
+                <span class="discount_info">(+10% скидка)</span>
+                <span class="icon_users">👥</span>
+            </div>
+        </div>
+
+        <div class="options_section">
+            <div class="option_header">
+                <input type="checkbox" id="include_food" name="include_food">
+                <label for="include_food">Включить питание</label>
+                <a href="#" class="menu_link">Смотреть меню</a>
+            </div>
+            <div class="conditional_content hidden" id="food_content">
+                <div class="selected_items_list" id="food_selected_items">
+                    <p>Нет выбранных элементов</p>
+                </div>
+                <button type="button" class="add_more_button" id="add_food_button">Добавить еще</button>
+            </div>
+        </div>
+
+        <div class="options_section">
+            <div class="option_header">
+                <input type="checkbox" id="include_services" name="include_services">
+                <label for="include_services">Включить дополнительные услуги</label>
+            </div>
+            <div class="conditional_content hidden" id="services_content">
+                <div class="selected_items_list" id="services_selected_items">
+                    <p>Нет выбранных элементов</p>
+                </div>
+                <button type="button" class="add_more_button" id="add_services_button">Добавить еще</button>
+            </div>
+        </div>
+
+        <div class="options_section">
+            <div class="option_header">
+                <input type="checkbox" id="include_transport" name="include_transport">
+                <label for="include_transport">Включить транспорт</label>
+            </div>
+            <div class="conditional_content hidden" id="transport_content">
+                <div class="form_group full_width">
+                    <label for="transport_type" class="sr_only">Тип транспорта</label>
+                    <select id="transport_type" name="transport_type">
+                        <option value="to" data-price="5000">Туда (5000 тг)</option>
+                        <option value="back" data-price="5000">Обратно (5000 тг)</option>
+                        <option value="both" data-price="10000">Туда-обратно (10000 тг)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div class="discount_banner">
+            Активирована скидка 10%
+        </div>
+
+        <div class="total_summary" id="total_summary">
+            Итоговая сумма: <span>0 тенге</span>
+        </div>
+
+        <button type="submit" class="submit_button">Отправить заявку</button>
+    </div>
+
+    <!-- Модальное окно для меню -->
+    <div class="modal" id="food_modal">
+        <div class="modal_content">
+            <span class="modal_close_button">×</span>
+            <h2>Выберите элементы меню</h2>
+            <div class="modal_body"></div>
+            <div class="modal_footer">
+                <button type="button" class="modal_save_button" id="save_food">Сохранить</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Модальное окно для дополнительных услуг -->
+    <div class="modal" id="services_modal">
+        <div class="modal_content">
+            <span class="modal_close_button">×</span>
+            <h2>Выберите дополнительные услуги</h2>
+            <div class="modal_body"></div>
+            <div class="modal_footer">
+                <button type="button" class="modal_save_button" id="save_services">Сохранить</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Модальное окно для подтверждения отправки -->
+    <div class="modal" id="submit_modal">
+        <div class="modal_content">
+            <h2>Ваши данные отправлены</h2>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
