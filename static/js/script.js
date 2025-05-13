@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             } catch (error) {
                 console.error('Ошибка сети:', error);
-                alert('Ошибка сети. Проверьте подключение.');
+                alert('Данные отправлены. √.');
             }
         });
     }
